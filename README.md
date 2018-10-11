@@ -1,6 +1,6 @@
 Trabalho de Compiladores - 2018.2
 
-Implementação de um analisador léxico e sintático para um subconjunto da linguagem C de acordo com a gramática BNF dad.
+Implementação de um analisador léxico e sintático para um subconjunto da linguagem C de acordo com a gramática BNF dada.
 
 Analisador Léxico utilizando PLY/LEX
 
