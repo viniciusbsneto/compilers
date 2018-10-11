@@ -7,6 +7,9 @@ Analisador Léxico utilizando PLY/LEX
 Analisador Sintático utilizando PLY/YACC
 
 Para executar o código:
+
 1 - Instalar o Python 3.5
+
 2 - Instalar PLY 3.11
+
 3 - Executar 'lex_yacc.py'
